@@ -2,12 +2,6 @@
 
 Site institucional de uma churrascaria desenvolvido com HTML, CSS, JavaScript e PHP com integração ao banco de dados MySQL.
 
-## Equipe:
-- Alana
-- Kelly
-- Monique
-- Giovanna
-
 ## Páginas:
 - **index.html** - Página Inicial
 - **sobre.html** - Sobre Nós
