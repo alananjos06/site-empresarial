@@ -19,6 +19,7 @@ Site institucional de uma churrascaria desenvolvido com HTML, CSS, JavaScript e 
 ## ⚙️ Pré-requisitos:
 Para rodar este projeto você precisa ter instalado:
 - [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+- [PHP](https://www.php.net/)
 
 ## 🚀 Como rodar o projeto?
 
