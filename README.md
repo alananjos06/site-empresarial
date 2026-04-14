@@ -69,6 +69,7 @@ O projeto utiliza um banco de dados MySQL chamado `empresa` com duas tabelas:
 | descricao | TEXT | Descrição da novidade |
 
 ## 📁 Estrutura do Projeto
+```
 website-empresarial/
 ├── index.html
 ├── sobre.html
@@ -89,6 +90,7 @@ website-empresarial/
 │   └── prato6.jpg
 └── js/
 └── contato.js
+```
 
 ## ⚠️ Observação!!
 As páginas `produtos.php` e `novidades.php` **não funcionam** abrindo diretamente pelo navegador ou pelo VS Code. É necessário acessá-las através do servidor local do XAMPP conforme instruções acima.
