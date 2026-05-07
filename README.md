@@ -25,7 +25,7 @@ Para rodar este projeto você precisa ter instalado:
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/website-empresarial.git
+git clone https://github.com/alananjos06/website-empresarial.git
 ```
 
 ### 2. Mova a pasta para o htdocs
