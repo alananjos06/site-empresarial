@@ -2,6 +2,14 @@
 
 Site institucional de uma churrascaria desenvolvido com HTML, CSS, JavaScript e PHP com integração ao banco de dados MySQL.
 
+## 📸 Screenshots
+ 
+### Novidades e Promoções
+<img width="800" alt="Página de Produtos e Serviços" src="https://github.com/user-attachments/assets/c157f539-400d-49ed-9689-b7288a54a084" />
+
+### Produtos e Serviços
+<img width="800" alt="Página de Novidades" src="https://github.com/user-attachments/assets/aa515d46-b612-4bba-a9ff-a08f8bac5cc3" />
+
 ## Páginas:
 - **index.html** - Página Inicial
 - **sobre.html** - Sobre Nós
